@@ -8,3 +8,8 @@ Los estudiantes resuelven problemas que parten de los datos, producen informaci√
 - Carpeta Modelos
 - Carpeta Notebooks
 - Carpeta Codigo Fuente
+
+
+
+Guia para subir trabajos de grado en el repositorio de la Universidad:
+https://biblioteca.uniandes.edu.co/es/servicios/entrega-tesis <img width="538" height="23" alt="image" src="https://github.com/user-attachments/assets/48f2b453-84c7-4fe8-857a-68b33df2bd37" />
